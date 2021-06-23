@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/Topics/BigInteger/Division/build/
+/Topics/BigInteger/Division/build/classes/java/main/
+/Topics/BigInteger/Exabytes/build/
+/Topics/BigInteger/Exabytes/build/classes/java/main/
+/Topics/While loops/Balance checker/build/
+/Topics/While loops/Balance checker/build/classes/java/main/
